@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElRebong
 - 👀 I’m interested in Drawing Anime, Painting
-- 🌱 I’m currently learning C#, Javascript
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently C#, Javascript , Angular
+- 💞️ I’m looking to collaborate on SQL 
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like turtle XD
 
